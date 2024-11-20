@@ -22,6 +22,8 @@ github_username: AlesSrsen
 minimal_mistakes_skin: blog.srsen.me
 search: true
 
+repository: alessrsen/blog.srsen.me
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
