@@ -60,6 +60,7 @@ plugins:
 author:
   name   : "Aleš Sršeň 🐝"
   avatar : "/assets/images/profile-picture.png"
+  home   : "https://srsen.me"
   bio    : "IT Student with a tiny personal blog."
   links:
     - label: "Website"
